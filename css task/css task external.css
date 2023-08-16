@@ -1,0 +1,101 @@
+.main{
+	height: 250px;
+	width: 530px;
+	background-color:whitesmoke;
+    border-radius: 20px;
+    border:1px solid black;
+}
+.a{
+	height: 200px;
+	width: 150px;
+	float: left;
+	border:1px solid black;
+	border-radius: 20px;
+	margin:6px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.b{
+	height: 200px;
+	width: 150px;
+	float: left;
+	border:1px solid black;
+	border-radius: 20px;
+	margin:6px;
+	margin-top: 20px;
+}
+.c{
+	height: 200px;
+	width: 150px;
+	float:left;
+	border:1px solid black;
+	border-radius: 20px;
+	margin:6px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+div{
+	font-size: 50px;
+	color: blue;
+}
+.A{
+	font-size: 20px;
+	color: black;
+	margin: 5px;
+}
+.A1{
+	font-size: 8px;
+	color: black;
+}
+.A2{
+	height: 30px;
+	width: 100px;
+	border-radius: 10px;
+	background-color: blue;
+	margin-bottom: 0px;
+}
+.A3{
+	font-size: 20px;
+	color: white;
+}
+.B{
+	font-size: 20px;
+	color: black;
+	margin: 5px;
+}
+.B1{
+	font-size: 8px;
+	color: black;
+}
+.B2{
+	height: 30px;
+	width: 100px;
+	border-radius: 10px;
+	background-color:blue;
+	margin-bottom: 0px;
+}
+.B3{
+	font-size: 20px;
+	color: white;
+}
+.C{
+
+	font-size: 20px;
+	color: black;
+	margin: 5px;
+}
+.C1{
+	font-size: 8px;
+	color: black;
+}
+.C2{
+	height: 30px;
+	width: 100px;
+	border-radius: 10px;
+	background-color: blue;
+	margin-bottom: 0px;
+}
+.C3{
+	font-size: 20px;
+	color: white;
+}

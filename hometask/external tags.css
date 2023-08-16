@@ -1,0 +1,29 @@
+a[href]
+{
+	color: blue;
+	background-color: silver;
+	font-family: cursive;
+	border: 1px solid red;
+}
+.c{
+	font-family: papyrus;
+	font-size: 18px;
+	background-color: whitesmoke;
+}
+.d{
+	font-size: 18px;
+	font-family: Courier New;
+	padding-left: 250px;
+	background-color: whitesmoke;
+}
+.h{
+	text-align:right;
+}
+.i{
+	text-align:center ;
+	background-color: grey;
+	height: 100px;
+	line-height: 100px;
+
+}
+

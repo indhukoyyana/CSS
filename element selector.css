@@ -1,0 +1,65 @@
+p{
+	color: orangered;
+	font-size: 30px;
+	font-family: fantasy;
+	background-color: pink;
+}
+div{
+	background-color: pink;
+	height: 100px;
+	width: 100px;
+	border: 3px solid maroon;
+}
+*{
+	font-size: 30px;
+	font-family: revert;
+	color: green;
+}
+input[type="text"]
+{
+	color: red;
+	font-family: cursive;
+}
+input[type="number"]
+{
+	color: blue;
+	font-family: cursive;
+}
+input[type=password]
+{
+	color:orange ;
+	font-family: cursive;
+}
+input[type="email"]
+{
+	color: maroon;
+	font-family: cursive;
+}
+/*a[href]
+{
+	color: seagreen;
+	background-color: silver;
+}*/
+a:hover
+{
+    color: green;
+    font-size: 60px;
+}
+a:visited
+{
+	color: blue;
+}
+a:link
+{
+	color: greenyellow;
+}
+a:active
+{
+	color: orange;
+}
+div:hover
+{
+	background-color: yellow;
+	color: red;
+	font-size: 80px;
+}
